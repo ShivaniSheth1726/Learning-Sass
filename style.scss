@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    h1{
+        color:darkblue;
+        text-align: center;
+    }
+    p{
+        color:red;
+        text-align: center;
+    }
+    button{
+        padding: 6px 12px;
+    }
+  
+}
+button:hover{
+    background-color: yellow;
+}
